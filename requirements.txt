@@ -16,7 +16,7 @@ aiofiles
 dnspython
 pynewtonmath
 shortzy
-python-dotenv<=0.20.0
+python-dotenv==0.20.0
 apscheduler
 pyshorteners
 psutil
